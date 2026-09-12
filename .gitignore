@@ -1,0 +1,12 @@
+# Never upload Ethereum secrets
+keystore/
+password.txt
+*.key
+.env
+secrets/
+
+# Local blockchain data
+geth/
+chaindata/
+geth.ipc
+nodekey
